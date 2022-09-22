@@ -7,3 +7,5 @@
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
 💙 Join the channel to see more videos like this. [WebCode](https://www.youtube.com/channel/UCfPJ07vvW4CBs6M-vn4ctMQ)
+
+![preview img](./assets/freeCode.jpg)
